@@ -1,6 +1,6 @@
-import Input from "./components/Entrada/Input.jsx";
-import Tarea from "./components/Tarea/Tarea.jsx";
-import Boton from "./components/Boton/Boton.jsx";
+import Input from "./components/Entrada/Input";
+import Tarea from "./components/Tarea/Tarea";
+import Boton from "./components/Boton/Boton";
 
 function App() {
   return (
